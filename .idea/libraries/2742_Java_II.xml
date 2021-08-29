@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="2742 Java II">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/nnelson-2742/samp1/src" />
+      <root url="file://$PROJECT_DIR$/nnelson-2742/samp2/src" />
+    </SOURCES>
+  </library>
+</component>
