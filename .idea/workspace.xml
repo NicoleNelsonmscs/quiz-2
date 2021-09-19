@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd38463e-6844-46c1-b732-918cbcb0c640" name="Default Changelist" comment="Completed Ex1A">
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/nnelson2742ex1b.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/src/domain/DbContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/src/domain/GDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/src/domain/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/src/domain/LineItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/src/ui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/test/domain/GDateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/test/domain/InvoiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b/test/domain/LineItemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/nnelson2742ex1b2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/src/domain/DbContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/src/domain/GDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/src/domain/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/src/domain/LineItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/src/ui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/test/domain/GDateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/test/domain/InvoiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/test/domain/LineItemTest.java" afterDir="false" />
+    <list default="true" id="dd38463e-6844-46c1-b732-918cbcb0c640" name="Default Changelist" comment="Completed Ex1b">
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/nnelson2742ex1c1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/src/domain/DbContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/src/domain/GDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/src/domain/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/src/domain/LineItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/src/ui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/test/domain/GDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/test/domain/InvoiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/test/domain/LineItemTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/test/domain/LineItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/test/domain/LineItemTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +47,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1b2/test/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nnelson-2742/nnelson2742ex1c1/test/domain" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,6 +55,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex1c1\test\domain" />
+      <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex1c1\src\domain" />
       <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex1b2\test\domain" />
       <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex1b2\src\domain" />
     </key>
@@ -80,10 +74,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LineItemTest.testConstructor">
+  <component name="RunManager" selected="JUnit.LineItemTest (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ui.Main" />
-      <module name="nnelson2742ex1b2" />
+      <module name="nnelson2742ex1c1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ui.*" />
@@ -94,38 +88,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvoiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nnelson2742ex1b2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.InvoiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InvoiceTest.total" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nnelson2742ex1b2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.InvoiceTest" />
-      <option name="METHOD_NAME" value="total" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LineItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LineItemTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="nnelson2742ex1b2" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LineItemTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LineItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson2742ex1b" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain" />
+      <option name="MAIN_CLASS_NAME" value="domain.LineItemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineItemTest.testConstructor (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="nnelson2742ex1b2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain" />
+      <option name="MAIN_CLASS_NAME" value="domain.LineItemTest" />
+      <option name="METHOD_NAME" value="testConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineItemTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson2742ex1b" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="domain.*" />
@@ -205,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LineItemTest (1)" />
+        <item itemvalue="JUnit.LineItemTest.testConstructor (1)" />
         <item itemvalue="JUnit.LineItemTest.testConstructor" />
         <item itemvalue="JUnit.LineItemTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.InvoiceTest.total" />
-        <item itemvalue="JUnit.InvoiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630309816853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Ex1b">
+      <created>1630815490105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630815490105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,13 +250,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added module samp2" />
     <MESSAGE value="Completed Ex1A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Ex1A" />
+    <MESSAGE value="Completed Ex1b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Ex1b" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nnelson___2742$LineItemTest_testConstructor__1_.ic" NAME="LineItemTest.testConstructor (1) Coverage Results" MODIFIED="1632020422566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>domain.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/nnelson___2742$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1630277240288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
