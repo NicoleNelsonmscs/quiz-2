@@ -45,6 +45,9 @@ public class LineItem extends ArrayList<LineItem> {
                 '}';
     }
 
+    public String toShortString() {
+        return  description + " " + String.format("%.2f",amount);
+    }
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

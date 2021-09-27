@@ -104,6 +104,6 @@ class GDateTest {
 
     @Test
     void toFmtString() {
-        assertEquals("2000.01.01", this.date1.toString());
+        assertEquals("2000/01/01", this.date1.toString());
     }
 }

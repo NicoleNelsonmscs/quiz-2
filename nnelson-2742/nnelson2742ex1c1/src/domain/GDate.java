@@ -88,7 +88,7 @@ public class GDate {
         String year = String.format("%04d",year());
         String month = String.format("%02d",month());
         String day = String.format("%02d",day());
-        return year + "." + month + "." + day;
+        return year + "/" + month + "/" + day;
     }
 
     @Override

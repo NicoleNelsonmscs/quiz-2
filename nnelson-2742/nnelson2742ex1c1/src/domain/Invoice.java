@@ -3,6 +3,17 @@ package domain;
 import java.util.ArrayList;
 
 public class Invoice {
+    public void setStatus(int status) {
+        this.status = status;
+    }
+    public void setInvoiceDate(GDate invoiceDate) {
+        this.invoiceDate = invoiceDate.copy();
+    }
+
+    public void setDueDate(GDate dueDate) {
+        this.dueDate = dueDate.copy();
+    }
+
     private int invoiceId;
     private int status;
     private GDate invoiceDate;
@@ -37,6 +48,8 @@ public class Invoice {
     public void addLineItem(LineItem lineItem) {
         this.lineItems.add(lineItem);
     }
+
+    public void addLineItem(int index, LineItem lineItem) { this.lineItems.add(index, new LineItem(lineItem)); }
 
     public LineItem removeLineItem(int index) {
         LineItem lineItem = null;
@@ -93,12 +106,17 @@ public class Invoice {
                 '}';
     }
 
+    public String toShortString() {
+        return Integer.toString(invoiceId) +
+                ", status: " + status +
+                ", " + invoiceDate;
+    }
+
     public LineItem getLineItem(int index) {
-        LineItem lineItems = null;
-        for (LineItem lineItem: this.lineItems){
-            lineItems.add(lineItem.copy());
-        }
-        return lineItems;
+        LineItem lineItem = null;
+        if (index < this.lineItems.size())
+            lineItem = lineItems.get(index).copy();
+        return lineItem;
     }
 
 
