@@ -4,11 +4,11 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 
 public class Person {
-    private int personId;
-    private String firstName;
-    private String lastName;
-    private String userName;
-    private LocalDateTime updated;
+    protected int personId;
+    protected String firstName;
+    protected String lastName;
+    protected String userName;
+    protected LocalDateTime updated;
 
     public Person() {
         this.personId = 0;
@@ -85,13 +85,16 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "personId=" + personId +
-                ", firstName='" + firstName + '\'' +
-                ", lastName='" + lastName + '\'' +
-                ", userName='" + userName + '\'' +
-                ", updated=" + updated +
-                '}';
+//        return "Person{" +
+//                "personId=" + personId +
+//                ", firstName='" + firstName + '\'' +
+//                ", lastName='" + lastName + '\'' +
+//                ", userName='" + userName + '\'' +
+//                ", updated=" + updated +
+//                '}';
+        return Integer.toString(personId) +     //ex1e
+                " " + lastName +
+                ", " + firstName;
     }
 
     public String toShortString() {
