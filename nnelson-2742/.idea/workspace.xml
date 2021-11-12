@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514ecdff-abc8-4959-ad01-7593852e6919" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1a/nnelson2742ex1a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1a/nnelson2742ex1a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1a/src/domain/GDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1a/src/domain/GDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1a/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1a/src/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1a/test/domain/GDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1a/test/domain/GDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/nnelson2742ex1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/nnelson2742ex1b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/src/domain/DbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/src/domain/DbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/src/domain/GDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/src/domain/GDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/src/domain/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/src/domain/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/src/domain/LineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/src/domain/LineItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/src/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/test/domain/GDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/test/domain/GDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/test/domain/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/test/domain/InvoiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b/test/domain/LineItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b/test/domain/LineItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/nnelson2742ex1b2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/nnelson2742ex1b2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/src/domain/DbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/src/domain/DbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/src/domain/GDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/src/domain/GDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/src/domain/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/src/domain/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/src/domain/LineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/src/domain/LineItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/src/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/test/domain/GDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/test/domain/GDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/test/domain/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/test/domain/InvoiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1b2/test/domain/LineItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1b2/test/domain/LineItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/nnelson2742ex1c1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/nnelson2742ex1c1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/domain/DbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/domain/DbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/domain/GDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/domain/GDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/domain/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/domain/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/domain/LineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/domain/LineItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/ui/InvoiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/ui/InvoiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/ui/InvoiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/ui/InvoiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/ui/InvoiceView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/ui/InvoiceView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/src/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/test/domain/GDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/test/domain/GDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/test/domain/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/test/domain/InvoiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1c1/test/domain/LineItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1c1/test/domain/LineItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1d1/nnelson2742ex1d1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1d1/nnelson2742ex1d1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex1e1/nnelson2742ex1e1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex1e1/nnelson2742ex1e1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/nnelson2742ex2a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/nnelson2742ex2a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/Apartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/ContractAdministrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/ContractAdministrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/DbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/DbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/HourlyAdministrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/HourlyAdministrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/LineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/LineItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/Tenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/Tenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/domain/TimeCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/domain/TimeCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/src/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/ApartmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/ApartmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/ContractAdministratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/ContractAdministratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/HourlyAdministratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/HourlyAdministratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/InvoiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/LineItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/LineItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/TenantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/TenantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnelson2742ex2a/test/domain/TimeCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/TimeCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/out/production/samp1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/out/production/samp1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/samp1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/samp1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp2/samp2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp2/samp2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samp2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/samp2/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zy5dFFVrIjp7hUVX996Usoxkyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex2a\test\domain" />
+      <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex2a\src\ui" />
+      <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex2a\src\domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex2a\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in nnelson-2742" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson-2742" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in nnelson-2742" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514ecdff-abc8-4959-ad01-7593852e6919" name="Default Changelist" comment="" />
+      <created>1635107572858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635107572858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nnelson2722/nnelson2742ex1d1/src/ui/ApartmentApplication.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
