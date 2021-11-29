@@ -7,36 +7,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514ecdff-abc8-4959-ad01-7593852e6919" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/resources/people.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/dataaccess/PeopleJSONParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/ContractAdministrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/DbContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/HourlyAdministrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/LineItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/Tenant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/domain/TimeCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/src/ui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/ApartmentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/ContractAdministratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/HourlyAdministratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/InvoiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/LineItemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/TenantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelsonex2d/test/domain/TimeCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="514ecdff-abc8-4959-ad01-7593852e6919" name="Default Changelist" comment="Ex2d complete">
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/nnelson2742ex2e.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/resources/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/dataaccess/PeopleJSONParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/ContractAdministrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/DbContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/HourlyAdministrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/JSONStringifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/LineItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/Tenant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/domain/TimeCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/exceptions/PersonIllegalArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/exceptions/TimeCardIllegalArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/src/ui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/ApartmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/ContractAdministratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/HourlyAdministratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/InvoiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/LineItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/TenantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e/test/domain/TimeCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nnelson2742ex2c/nnelson2742ex2c.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nnelson2742ex2c/nnelson2742ex2c.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nnelson2742ex2c/resources/people.json" beforeDir="false" afterPath="$PROJECT_DIR$/nnelson2742ex2c/resources/people.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nnelson2722/.idea/nnelson-2742.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/.idea/nnelson-2742.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/ContractAdministratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2a/test/domain/ContractAdministratorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -71,7 +72,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/nnelson2742ex2c/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/nnelson2742ex2c/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nnelson2722/nnelson2742ex2e" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -79,20 +80,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2742 Java II\nnelson2722\nnelson2742ex2e" />
+      <recent name="D:\2742 Java II\nnelson2722\nnelson2742ex2e\test\domain" />
+      <recent name="D:\2742 Java II\nnelson2722\nnelson2742ex2e\src\domain" />
+      <recent name="D:\2742 Java II\nnelson2722\nnelson2742ex2e\resources" />
       <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex2c\resources" />
-      <recent name="D:\2742 Java II\nnelson2722\nnelsonex2d\test\domain" />
-      <recent name="D:\2742 Java II\nnelson2722\nnelsonex2d" />
-      <recent name="D:\2742 Java II\nnelson2722\nnelsonex2d\src\ui" />
-      <recent name="D:\2742 Java II\nnelson2722\nnelsonex2d\src\domain" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\2742 Java II\nnelson-2742\nnelson2742ex2a\test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ui" />
+      <recent name="dataaccess" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HourlyAdministratorTest.jsonStringifyTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ui.Main" />
-      <module name="nnelson-2742" />
+      <module name="nnelson2742ex2e" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ui.*" />
@@ -103,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApartmentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nnelson-2742" />
+    <configuration name="HourlyAdministratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson2742ex2e" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="domain.*" />
@@ -112,14 +117,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.ApartmentTest" />
+      <option name="MAIN_CLASS_NAME" value="domain.HourlyAdministratorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nnelson-2742" />
+    <configuration name="HourlyAdministratorTest.jsonStringifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson2742ex2e" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="domain.*" />
@@ -127,30 +132,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.PersonTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonTest.personConstructorIdBelowRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nnelson-2742" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.PersonTest" />
-      <option name="METHOD_NAME" value="personConstructorIdBelowRange" />
+      <option name="MAIN_CLASS_NAME" value="domain.HourlyAdministratorTest" />
+      <option name="METHOD_NAME" value="jsonStringifyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest.setUserNameAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nnelson-2742" />
+    <configuration name="HourlyAdministratorTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson2742ex2e" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="domain.*" />
@@ -158,8 +148,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.PersonTest" />
-      <option name="METHOD_NAME" value="setUserNameAdmin" />
+      <option name="MAIN_CLASS_NAME" value="domain.HourlyAdministratorTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeCardTest.jsonStringifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nnelson2742ex2e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain" />
+      <option name="MAIN_CLASS_NAME" value="domain.TimeCardTest" />
+      <option name="METHOD_NAME" value="jsonStringifyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="JUnit.ApartmentTest" />
-        <item itemvalue="JUnit.PersonTest" />
-        <item itemvalue="JUnit.PersonTest.setUserNameAdmin" />
-        <item itemvalue="JUnit.PersonTest.personConstructorIdBelowRange" />
+        <item itemvalue="JUnit.HourlyAdministratorTest.jsonStringifyTest" />
+        <item itemvalue="JUnit.HourlyAdministratorTest.testToString" />
+        <item itemvalue="JUnit.HourlyAdministratorTest" />
+        <item itemvalue="JUnit.TimeCardTest.jsonStringifyTest" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +190,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635107572858</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ex2d complete">
+      <created>1638180563911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638180563911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +211,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex2d complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex2d complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

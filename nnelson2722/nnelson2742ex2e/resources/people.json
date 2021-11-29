@@ -112,19 +112,19 @@
       "employmentStartDate":"2012/02/02"
     },
     {
-      "subclass": "tenant",
-      "personId":106,
-      "blastName":"ggggg",
-      "firstName":"gggg",
-      "userName":"gggg.ggggg",
-      "birthDate":"1992/02/40",
-      "ssn":"222-22-2222",
-      "phone":"222-222-2223",
-      "employer":"Minnesota State College Southeast",
-      "occupation":"Instructor",
-      "grossPay":2222.22,
-      "employmentStartDate":"2012/02/02"
-    },
+    "subclass": "tenant",
+    "personId":106,
+    "blastName":"ggggg",
+    "firstName":"gggg",
+    "userName":"gggg.ggggg",
+    "birthDate":"1992/02/40",
+    "ssn":"222-22-2222",
+    "phone":"222-222-2223",
+    "employer":"Minnesota State College Southeast",
+    "occupation":"Instructor",
+    "grossPay":2222.22,
+    "employmentStartDate":"2012/02/02"
+  },
     {
       "subclass": "person",
       "personId":100,
