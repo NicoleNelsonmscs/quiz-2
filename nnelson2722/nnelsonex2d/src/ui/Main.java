@@ -16,7 +16,7 @@ public class Main {
         Person person = null;
 
         try {
-            PeopleJSONParser.readFile("nnelson2742ex2C/resources/people.json");
+            PeopleJSONParser.readFile("D:\\2742 Java II\\nnelson2722\\nnelsonex2d/resources/people.json");
             people = PeopleJSONParser.getPeople();
         }
         catch (FileNotFoundException e) {
