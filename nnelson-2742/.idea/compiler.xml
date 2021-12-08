@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="nnelsonex2d" />
         <module name="nnelson2742ex2c" />
       </profile>
     </annotationProcessing>
